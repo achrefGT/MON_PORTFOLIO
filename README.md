@@ -1,4 +1,4 @@
-# [Your Portfolio Site Name]
+# My Portfolio Site
 
 Welcome to my dynamic portfolio site! This site showcases my skills, projects, and provides information about me.
 
